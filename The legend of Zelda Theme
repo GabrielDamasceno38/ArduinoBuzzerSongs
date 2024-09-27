@@ -1,6 +1,7 @@
 /* 
   The legend of Zelda Theme By Gabriel Damasceno 
-  Connect a piezo buzzer or speaker to pin 11 or select a new pin 
+  Connect a piezo buzzer or speaker to pin 11 or select a new pin
+  More songs available at https://github.com/GabrielDamasceno38/ArduinoBuzzerSongs
                                              
 */
 
