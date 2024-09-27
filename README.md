@@ -5,4 +5,4 @@
 -  🎵 turning arduino into a jukebox 🎵
 
 
-![](https://media1.tenor.com/m/M7KwWu4DtfAAAAAC/ragnarok-meta-ragnagif.gif)
+- To assemble the project, connect a piezo buzzer or speaker to pin 11 or select a new pin
