@@ -6,4 +6,4 @@
 
 
 
-![](https://tenor.com/bW1hz.gif)
+![](https://media1.tenor.com/m/M7KwWu4DtfAAAAAC/ragnarok-meta-ragnagif.gif)
